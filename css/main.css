@@ -204,4 +204,7 @@ form input[type="submit"]:hover {
     .about img {
         display: none;
     }
+    .footer p {
+        font-size: 12px !important;
+    }
 }
